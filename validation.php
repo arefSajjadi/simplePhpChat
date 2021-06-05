@@ -1,5 +1,5 @@
 <?php
-include_once 'dp/dp.php';
+include_once 'db/db.php';
 
 session_start();
 

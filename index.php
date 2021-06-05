@@ -1,4 +1,4 @@
-<?php include_once 'dp/dp.php'; ?>
+<?php include_once 'db/db.php'; ?>
 
 <html LANG="en">
 <head>
