@@ -1,5 +1,5 @@
 <?php
-include_once '../../env.php';
+include_once '../../db.php';
 global $con;
 
 session_start();

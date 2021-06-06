@@ -1,5 +1,5 @@
 <?php
-include_once 'env.php';
+include_once 'db.php';
 session_start();
 
 function users()
