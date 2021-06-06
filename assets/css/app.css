@@ -1,0 +1,12 @@
+
+/* usage: home.php [start] */
+#result{
+    padding: 0;
+    width: 30%;
+}
+@media (max-width: 1400px) {
+    #result{
+        width: 85%!important;
+    }
+}
+/* usage: home.php [end] */
