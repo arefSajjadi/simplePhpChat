@@ -1,2 +1,2 @@
 # simplePhpChat
-simple chat application with php and ajax 
+Simple live chat application with php and ajax 
