@@ -6,7 +6,7 @@ Simple live chat web application with php and ajax
 
 Use the package manager to install these.
 
-* webServer (nginx, apache, ...)
+* webServer (nginx, apache, etc)
 * php
 * mysql
 * webBrowser
@@ -14,13 +14,13 @@ Use the package manager to install these.
 # Usage
 
 You can use this website as a simple chat application and feel free for safe discussion with your friends. you can
-select your friend to what you want chat with him / her, and `say Hello`.
+select your friend to what you want to chat with him / her, and `say Hello :)`.
 
 # Installation
 
-1 - Copy all file into the folder (name is optional) in your web server `DocumentRoot`.
+1 - Copy all file into the folder [name is optional] in your web server `DocumentRoot`.
 
-2 - Create a `simple_php_chat[name was optional]` database into the mysqlService, Then, Import `db.sql` file into this
+2 - Create a  database [name is optional] into the mysqlService, Then, Import `db.sql` file into this
 database.
 > Recommendation: use `phpmyadmin` for interactive with your mysqlService is better.
 
@@ -28,7 +28,7 @@ database.
 
 3 - Open the webBrowser and Try to search `http://localhost/yourFolderName/index.php`.
 
-4 - webSite has been served, enjoy.
+4 - website has been served, enjoy.
 
 # More Documentation
 
