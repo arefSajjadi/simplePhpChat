@@ -3,8 +3,8 @@
 Simple live chat web application with php and ajax
 
 # Required
-Use the package manager to install these.
 
+Use the package manager to install these.
 
 * webServer (nginx, apache, ...)
 * php
@@ -12,17 +12,19 @@ Use the package manager to install these.
 * webBrowser
 
 # Usage
-You can use this website as a simple chat application and feel free for safe discussion with your friends.
-you can select your friend to what you want chat with him / her, and `say Hello`.
 
-
+You can use this website as a simple chat application and feel free for safe discussion with your friends. you can
+select your friend to what you want chat with him / her, and `say Hello`.
 
 # Installation
 
 1 - Copy all file into the folder (name is optional) in your web server `DocumentRoot`.
 
-2 - Import `db.sql` file into the mysql.
-> I recommended to use `phpmyadmin` for interactive with your mysqlService
+2 - Create a `simple_php_chat[name was optional]` database into the mysqlService, Then, Import `db.sql` file into this
+database.
+> Recommendation: use `phpmyadmin` for interactive with your mysqlService is better.
+
+> Notice: change your information into the `db.php` file.
 
 3 - Open the webBrowser and Try to search `http://localhost/yourFolderName/index.php`.
 
@@ -34,8 +36,8 @@ you can select your friend to what you want chat with him / her, and `say Hello`
   `app\controllers\authController.php` file for more information about this action.
 
 
-* Logging protocol: It's a simple way for logging your user by checking the information and registering the
-  user if no information was found.
+* Logging protocol: It's a simple way for logging your user by checking the information and registering the user if no
+  information was found.
 
 ## Contributing
 
