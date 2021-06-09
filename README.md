@@ -2,7 +2,7 @@
 
 Simple live chat web application with php and ajax
 
-#Demo
+# Demo
 Coming Soon
 
 # Required
