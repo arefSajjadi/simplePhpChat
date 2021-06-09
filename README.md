@@ -2,6 +2,9 @@
 
 Simple live chat web application with php and ajax
 
+#Demo
+Coming Soon
+
 # Required
 
 Use the package manager to install these.
