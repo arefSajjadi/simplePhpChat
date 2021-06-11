@@ -3,7 +3,7 @@
 Simple live chat web application with php and ajax
 
 # Demo
-Coming Soon
+demos photo's is now available in `\demos` folder.
 
 # Required
 
